@@ -1,6 +1,6 @@
 # MAI PHAN
 **Ho Chi Minh City, Vietnam · linkedin.com/in/mai-phan-580432115**
-*Chief of Staff & Head of Investor Relations · PNJ Group (HOSE: PNJ)*
+*Chief of Staff & Senior Manager of BODs Office · PNJ Group (HOSE: PNJ)*
 
 ---
 
