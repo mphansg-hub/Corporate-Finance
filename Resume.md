@@ -85,7 +85,7 @@
 
 **Corporate Skills:** Corporate Governance · Investor Relations · Board Operations · Strategic Planning · CRM · Regulatory Compliance
 
-**Academic Tools:** Financial Ratio Analysis · Managerial Accounting · CVP Analysis · Capital Budgeting · Variance Analysis · DuPont Decomposition
+**Academic Tools:** Financial Ratio Analysis · Managerial Accounting · Capital Budgeting · Variance Analysis 
 
 **Certifications:** VIOD DCP3 (Corporate Governance) · VIOD CSMP (Corporate Secretary) · Law Practice for Corporate Leaders · MiniMBA
 
