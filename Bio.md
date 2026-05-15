@@ -17,7 +17,7 @@ ESOP Administration · Regulatory Compliance · Strategic Planning
 - **+30%** customer retention improvement through CRM transformation
 - Elevated PNJ's Board Office into a high-performance governance function
 - Certified: VIOD DCP3 (Director Certification) · VIOD CSMP (Corporate Secretary)
-- Vietnam Executive MBA — University of Hawaiʻi, 2025–2027 (Financial Analysis · Corporate Finance)
+- Vietnam Executive MBA — University of Hawaiʻi, 2025–2027 
 
 ### Goals
 **Near-term:** Strengthen quantitative financial analysis capabilities to support
