@@ -1,47 +1,53 @@
-# MAI PHAN
-**Ho Chi Minh City, Vietnam · linkedin.com/in/mai-phan-580432115**
-*Chief of Staff & Senior Manager of BODs Office · PNJ Group (HOSE: PNJ)*
-
+# Mai Phan 
+- Email: xmp@hawaii.edu
+- University of Hawaiʻi, Honolulu, HI, USA
+- Hometown: Ho Chi Minh City, Vietnam
 ---
-
 ## EDUCATION
+**University of Hawaiʻi System**, *Vietnam Executive MBA (VEMBA)* — Honolulu, HI  
+- Focus: Financial Analysis, Capital Allocation, and Corporate Finance Strategy — Oct 2025 – Jul 2027 (Expected)  
+- Courses include: BUS 624 Accounting for Decision Making; BUS 629; BUS 122B  
 
-**University of Hawaiʻi System**, *Vietnam Executive MBA (VEMBA)* — Honolulu, HI — Oct 2025 – Jul 2027 (Expected)
-- Focus: Financial Analysis, Capital Allocation, and Corporate Finance Strategy
-- Courses include: BUS 624 Accounting for Decision Making; BUS 629; BUS 122B
+**Northwood University**, *Bachelor of Business Administration* — Michigan, USA — Jun 2006  
+- Major: Business Administration & Management  
 
-**Northwood University**, *Bachelor of Business Administration — Business Administration & Management* — Michigan, USA — Jun 2006
+**Hotel Institute Montreux**, *Bachelor of Business Administration* — Montreux, Switzerland  
+- Major: Hospitality Administration & Management  
 
-**Hotel Institute Montreux**, *Bachelor of Business Administration — Hospitality Administration & Management* — Montreux, Switzerland
-
-**Lê Hồng Phong High School for the Gifted**, *High School Diploma* — Ho Chi Minh City, Vietnam — Sep 2002
+**Lê Hồng Phong High School for the Gifted** — Ho Chi Minh City, Vietnam — Sep 2002  
 
 ---
-
 ## PROFESSIONAL EXPERIENCE
+**PNJ Group (HOSE: PNJ)**, *Chief of Staff to the Board of Directors* — Ho Chi Minh City, Vietnam — Jul 2019–Present  
+- Oversee Board-level corporate governance and operational efficiency in compliance with Vietnam's Enterprise Law (No. 59/2020/QH14) and Securities Law (No. 54/2019/QH14)  
+- Transformed Board Office into a high-performance governance function, improving execution discipline and decision quality across all strategic committees  
+- Collaborate with the Board of Directors and executive leadership on strategic planning, policy formulation, and change management initiatives  
 
-**PNJ Group (HOSE: PNJ)**, *Chief of Staff to the Board of Directors* — Ho Chi Minh City, Vietnam — Jul 2019 – Present
-- Oversee Board-level corporate governance and regulatory compliance under Vietnam's Enterprise Law (No. 59/2020/QH14) and Securities Law (No. 54/2019/QH14)
-- Transformed Board Office into a high-performance governance function, enhancing execution discipline and decision quality across all strategic committees
-- Collaborate directly with the Board of Directors and executive leadership on strategic planning, policy formulation, and change management
+**PNJ Group (HOSE: PNJ)**, *Head of Investor Relations* — Ho Chi Minh City, Vietnam — Aug 2018–Present  
+- Grew institutional investor engagement by 25% through redesigned IR strategy and targeted capital market communication  
+- Manage capital market disclosures, ESOP administration, and SSC reporting obligations under Vietnamese securities regulation  
+- Serve as primary liaison between the Board, executive team, and institutional investors and analysts  
 
-**PNJ Group (HOSE: PNJ)**, *Head of Investor Relations* — Ho Chi Minh City, Vietnam — Aug 2018 – Present
-- Grew institutional investor engagement by **25%** through redesigned IR strategy and targeted capital market communication
-- Manage capital market disclosures, ESOP administration, and SSC reporting obligations under Vietnamese securities regulation
-- Serve as primary liaison between the Board, executive team, and institutional investors and analysts
+**CAO Fashion Company**, *Deputy Managing Director* — Vietnam — Aug 2017–Jul 2019  
+- Led enterprise-wide operations and strategic planning for a mid-sized fashion retail company  
+- Implemented cost-saving measures resulting in 15% annual reduction in operational costs  
+- Drove cross-functional alignment across sales, logistics, and finance functions  
 
-**CAO Fashion Company**, *Deputy Managing Director* — Vietnam — Aug 2017 – Jul 2019
-- Led enterprise-wide operations and strategic planning; implemented cost-saving measures achieving **15% annual reduction** in operational costs
-- Drove cross-functional alignment across sales, logistics, and finance
+**PNJ Group**, *CRM Manager* — Ho Chi Minh City, Vietnam — Mar 2014–Jan 2017  
+- Increased customer retention rates by 30% within two years through data-driven loyalty programme redesign  
+- Deployed CRM system enhancements improving customer segmentation, campaign targeting, and service resolution workflows  
 
-**PNJ Group**, *CRM Manager* — Ho Chi Minh City, Vietnam — Mar 2014 – Jan 2017
-- Increased customer retention rates by **30% within two years** through data-driven loyalty programme redesign
-- Deployed CRM system enhancements improving segmentation, campaign targeting, and service resolution workflows
+**PNJ Group**, *Deputy Director of Retail Sales* — Ho Chi Minh City, Vietnam — Apr 2011–Jun 2013  
+- Contributed to 20% revenue growth in one fiscal year across managed store network  
+- Led regional retail teams, overseeing performance targets and store operations  
 
-**PNJ Group**, *Deputy Director of Retail Sales* — Ho Chi Minh City, Vietnam — Apr 2011 – Jun 2013
-- Contributed to **20% revenue growth** in one fiscal year across the managed store network
+**PNJ Group**, *Northern Branch Deputy Managing Director* — Hanoi, Vietnam — Mar 2009–Mar 2011  
+- Oversaw full P&L operations of PNJ's Northern Vietnam branch  
+- Managed sales, staffing, and regional business development across northern market  
 
-**PNJ Group**, *Northern Branch Deputy Managing Director* — Hanoi, Vietnam — Mar 2009 – Mar 2011
+---
+## LEADERSHIP EXPERIENCE
+**Vietnam Institute of Directors (VIOD)**, *Certified Corporate Governance Professional* — Vietnam — Present  
 - Oversaw full P&L operations of PNJ's Northern Vietnam branch, managing sales, staffing, and regional business development
 
 ---
