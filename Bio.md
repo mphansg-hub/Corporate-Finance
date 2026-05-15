@@ -1,5 +1,5 @@
 ## Mai Phan
-**Chief of Staff to the Board of Directors · Senior Manager of the BODs Office**
+**Chief of Staff to the Board of Directors · Senior Manager of the BODs Office ·**
 PNJ Group (HOSE: PNJ) · Ho Chi Minh City, Vietnam
 
 ### Introduction
