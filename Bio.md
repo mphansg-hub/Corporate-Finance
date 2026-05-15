@@ -10,7 +10,7 @@ Law No. 59/2020/QH14 and Securities Law No. 54/2019/QH14.
 
 ### Focus Areas
 Corporate Governance · Investor Relations · Capital Markets · Board Operations ·
-ESOP Administration · Regulatory Compliance · Strategic Planning
+ Regulatory Compliance · Strategic Planning
 
 ### Achievements
 - **+25%** institutional investor engagement growth through redesigned IR strategy
