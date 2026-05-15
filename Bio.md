@@ -1,4 +1,7 @@
-# Mai Phan **Email:** xmp@hawaii.edu **School Address:** University of Hawaiʻi System, Honolulu, HI, USA **Permanent Address:** Ho Chi Minh City, Vietnam  
+# Mai Phan 
+*Email:* xmp@hawaii.edu 
+*School Address:* University of Hawaiʻi System, Honolulu, HI, USA 
+*Permanent Address:* Ho Chi Minh City, Vietnam  
 ---
 ## EDUCATION
 **University of Hawaiʻi System**, *Vietnam Executive MBA (VEMBA)* — Honolulu, HI  
