@@ -1,7 +1,8 @@
 # Mai Phan 
-Email: xmp@hawaii.edu 
-# University of Hawaiʻi System, Honolulu, HI, USA 
-# Hometown: Ho Chi Minh City, Vietnam  
+Email: xmp@hawaii.edu
+University of Hawaiʻi System, Honolulu, HI, USA
+Hometown: Ho Chi Minh City, Vietnam
+
 ---
 ## EDUCATION
 **University of Hawaiʻi System**, *Vietnam Executive MBA (VEMBA)* — Honolulu, HI  
