@@ -1,31 +1,14 @@
 ---
-template: memo
-purpose: "Stage 2 company selection memo — subject selection rationale, analytical framing, and preliminary hypotheses for BUS-629 ratio analysis project"
-audience: "Adam Stauffer, Instructor — BUS-629 International Corporate Finance"
-fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
-title: "Company Selection Memo: Chow Tai Fook Jewellery Group Limited (SEHK: 1929)"
-to: "Adam Stauffer, Instructor — BUS-629 International Corporate Finance"
-from: "Mai Phan"
-date: 2026-05-16
-re: "Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (SEHK: 1929)"
-company: "Chow Tai Fook Jewellery Group Limited"
-ticker: "1929"
-exchange: "SEHK (Main Board, The Stock Exchange of Hong Kong)"
-fiscal_year_end: "31 March"
-reporting_standard: "IFRS"
-currency: "HKD"
-analytical_period: ["FY2024 (year ended 31 March 2024)", "FY2025 (year ended 31 March 2025)"]
-naming_convention: "YYYY-MM-DD-{slug}.md"
-courses: [BUS-629]
----
-
-# Company Selection Memo: Chow Tai Fook Jewellery Group Limited (SEHK: 1929)
-
-**To:** Adam Stauffer, Instructor — BUS-629 International Corporate Finance  
-**From:** Mai Phan  
-**Date:** 2026-05-16  
-**Re:** Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (SEHK: 1929)
-
+Template: MEMO
+Purpose: "Stage 2 company selection memo — subject selection rationale, analytical framing, and preliminary hypotheses for BUS-629 ratio analysis project"
+Audience: "Adam Stauffer, Instructor — BUS-629 International Corporate Finance"
+Company Selection Memo: Chow Tai Fook Jewellery Group Limited (SEHK: 1929)
+Exchange: "SEHK (Main Board, The Stock Exchange of Hong Kong)"
+Reporting_standard: "IFRS"
+Analytical_period: ["FY2024 (year ended 31 March 2024)", "FY2025 (year ended 31 March 2025)"]
+From: "Mai Phan"
+Date: 2026-05-16
+Courses: [BUS-629]
 ---
 
 ## Executive Summary
@@ -89,13 +72,14 @@ The analysis will apply the six ratio categories in `performance-ratios-template
 
 ## Implications
 
-*Hypotheses stated in falsifiable, directional form as required:*
+*Hypotheses stated in falsifiable, directional form. Where PNJ (HOSE: PNJ) data is available as a regional peer benchmark, it is cited to sharpen the directional case.*
 
-- **H1 — Gross Margin Expansion Driven by Gold Price, Not Volume:** I expect gross margin to have expanded materially from FY2024 to FY2025 — confirmed at 550 basis points to 29.5% — because elevated gold prices improved retail-level margins on existing inventory without requiring volume growth, a dynamic that should be visible in the gross profit ratio independently of revenue decline.
+- **H1 — Gold Price Tailwind as Structural Margin Driver, Not Operational Improvement:** 
+I expect CTF's gross margin expansion of 550 basis points to 29.5% in FY2025 to be attributable primarily to gold price appreciation rather than product mix shift or cost discipline — because the same gold price environment produced the opposite effect on PNJ's gross margin over an overlapping period. PNJ's average gross margin declined from 18.3% to 17.6% in FY2024 as high gold prices inflated cost of goods sold faster than retail selling prices could adjust — a dynamic analysts attributed to PNJ's pricing lag policy, which adjusts selling prices only when material costs move more than a threshold. CTF, operating under IFRS inventory accounting with a different cost pass-through structure, captured the gold price surge as margin expansion rather than absorption. This divergence — same commodity environment, opposite gross margin direction — is directly testable via ratio comparison and will be a central cross-peer finding.
 
-- **H2 — Asset Turnover Deterioration from Network Contraction:** I expect asset turnover to have declined from FY2024 to FY2025 because the 1,129-store reduction in Mainland POS, while improving per-store productivity, reduced the revenue base faster than the corresponding reduction in total assets — particularly given IFRS 16 right-of-use assets remaining on balance sheet during lease wind-down periods.
+- **H2 — Asset Turnover Deterioration Driven by Balance Sheet Stickiness, Not Revenue Alone:** I expect asset turnover to have declined from FY2024 to FY2025 because the reduction of 1,129 Mainland POS compressed revenue 17.5% while total assets — particularly IFRS 16 right-of-use assets tied to unexpired leases and gold inventory held in rationalized but not yet fully wound-down stores — declined at a materially slower rate. By contrast, PNJ's asset-light retail model — averaging approximately VND 100 billion per year in fixed asset investment across its store network — requires relatively low capital commitment per POS. This structural contrast means CTF's asset turnover is far more sensitive to network contraction than PNJ's, making the FY2024→FY2025 ratio movement a meaningful test of how franchise-heavy, inventory-intensive operators absorb store rationalization on the balance sheet.
 
-- **H3 — Leverage as the Primary ROE Driver:** I expect DuPont decomposition to show the equity multiplier (leverage) as the dominant contributor to ROE in both years because the franchise model, gold inventory financing, and an 84.6% FY2024 dividend payout ratio (structurally limiting retained earnings accumulation) sustain elevated debt-to-equity, making financial leverage a more consistent ROE driver than asset turnover or net margin.
+- **H3 — Leverage as the Dominant ROE Driver, With Payout Policy as the Structural Mechanism:** I expect DuPont decomposition to show the equity multiplier as the primary ROE contributor in both FY2024 and FY2025 — and to explain why CTF's ROE reached 21.9% in FY2025 despite an 8.97% decline in profit attributable to shareholders. The mechanism is structural: an 84.6% dividend payout ratio in FY2024 systematically constrains retained earnings accumulation, keeping the equity base suppressed and leverage elevated regardless of operating performance. PNJ's ROAE stood at 21.60% in 2023 on a capital structure that relies far less on financial leverage — driven instead by asset turnover and net margin, consistent with its low fixed-asset intensity. The DuPont decomposition will make this structural difference explicit: two jewellers reporting comparable ROE figures but achieving them through fundamentally different financial architectures — leverage-driven at CTF, efficiency-and-margin-driven at PNJ.
 
 ---
 
@@ -103,24 +87,34 @@ The analysis will apply the six ratio categories in `performance-ratios-template
 
 **Limitations:**
 
-- **Fiscal year timing mismatch:** CTF's 31 March year-end differs from PNJ Group's 31 December year-end; cross-company ratio comparisons will note this limitation explicitly and avoid direct period-to-period benchmarking without adjustment.
-- **Accounting standard differences:** IFRS vs. Vietnamese Accounting Standards (VAS) create non-comparable treatment of lease assets (IFRS 16 vs. VAS 6), revenue recognition, and inventory valuation. Material differences will be flagged at Stage 3.
-- **Gold price exogeneity:** FY2025 margin improvement is partly driven by gold price movements — an exogenous commodity factor — which limits the extent to which margin ratio improvement reflects operational performance improvement. This will be noted in the Findings narrative.
-- **Two-year scope:** Analysis covers FY2024–FY2025 only; extending to FY2023 would provide a three-year trend baseline but is outside the current project scope.
+- **Fiscal year timing mismatch (relevant to H1 and H3):** CTF's 31 March year-end differs from PNJ's 31 December year-end, meaning the gold price environment captured in CTF's FY2025 figures does not perfectly overlap with PNJ's FY2024 calendar-year results. Cross-peer gross margin and ROE comparisons will note this explicitly and apply directional rather than point-to-point benchmarking.
+- **Accounting standard differences — IFRS vs. VAS (relevant to H2 and H3):** IFRS 16 requires CTF to capitalize lease right-of-use assets and corresponding lease liabilities on-balance-sheet, inflating both total assets and reported debt relative to PNJ's VAS treatment. This creates a structural overstatement of CTF's asset base and leverage ratios in any direct comparison. Asset turnover (H2) and equity multiplier (H3) figures will be accompanied by a disclosure note quantifying the IFRS 16 impact where material, rather than treating the two companies as directly comparable on an unadjusted basis.
+- **Gold price exogeneity limits H1 interpretation:** The 550-basis-point gross margin expansion to 29.5% in FY2025 is partly driven by gold price appreciation — an exogenous commodity factor outside management control. This limits the extent to which the gross margin ratio improvement reflects operational efficiency or pricing strategy. H1 is framed to test the source of the expansion (commodity tailwind vs. operational improvement) precisely because of this limitation; the PNJ cross-peer comparison is the mechanism for isolating the commodity effect from structural margin performance.
+- **Two-year analytical scope:** The FY2024–FY2025 window captures the peak-to-contraction cycle but does not extend to FY2023, which would provide a pre-recovery baseline for all three hypotheses — particularly for H3's DuPont leverage trend. This limitation will be flagged in the Stage 3 findings narrative; FY2023 data will be referenced where publicly available to contextualize trend direction without being a formal analytical period.
 
 **Next steps:**
 
-- **Stage 3:** Download CTF FY2024 and FY2025 annual reports from hkexnews.hk; extract and map all financial statement line items into `performance-ratios-template.xlsx` named-range structure; verify ratio auto-population
-- **Stage 4:** Draft LLM specification for ratio computation, cross-standard commentary, and DuPont narrative
-- **Stage 5:** Incorporate instructor feedback from this memo into the final analytical deliverable; document revisions in `docs/decisions/`
+- **Stage 3:** Extract CTF FY2024 and FY2025 financial statement line items from HKExnews annual reports; map into performance-ratios-template.xlsx named-range structure; source PNJ FY2025 equivalent ratios from HOSE disclosures analyst reports for cross-peer commentary.
+- **Stage 4:** Draft LLM specification for ratio computation, IFRS 16 disclosure notes, DuPont decomposition narrative, and CTF–PNJ peer comparison framing.
+- **Stage 5:** Incorporate instructor feedback from this memo; document revisions in docs/decisions/
 
 ---
 
 ## References
 
-- Chow Tai Fook Jewellery Group Limited. *Annual Results for the Year Ended 31 March 2025 (FY2025)*. HKEx filing, 12 June 2025. hkexnews.hk. Accessed May 2026.
-- Chow Tai Fook Jewellery Group Limited. *Annual Results for the Year Ended 31 March 2024 (FY2024)*. HKEx filing, 13 June 2024. hkexnews.hk. Accessed May 2026.
-- Accesswire via Nasdaq. "Chow Tai Fook Jewellery Posts Strong Margin Expansion and Operating Profit for FY2025 from Brand Transformation Success." 12 June 2025. nasdaq.com. Accessed May 2026.
-- Accesswire via Nasdaq. "Chow Tai Fook Jewellery Celebrates 95th Anniversary with Record High Revenue and Core Operating Profit for FY2024." 13 June 2024. nasdaq.com. Accessed May 2026.
-- Webull Finance. "Chow Tai Fook (01929) FY2025 Annual Results Summary." webull.com. Accessed May 2026.
-- Yahoo Finance. *Chow Tai Fook Jewellery Group (1929.HK) — Summary & Financials*. finance.yahoo.com. Accessed May 2026.
+Chow Tai Fook — Primary Filings
+
+Chow Tai Fook Jewellery Group Limited. Annual Results for the Year Ended 31 March 2025 (FY2025). HKEx filing, 12 June 2025. Retrieved from hkexnews.hk. Accessed May 2026.
+Chow Tai Fook Jewellery Group Limited. Annual Results for the Year Ended 31 March 2024 (FY2024). HKEx filing, 13 June 2024. Retrieved from hkexnews.hk. Accessed May 2026.
+
+Chow Tai Fook — Press Releases & Market Data
+
+Accesswire via Nasdaq. "Chow Tai Fook Jewellery Posts Strong Margin Expansion and Operating Profit for FY2025 from Brand Transformation Success." 12 June 2025. nasdaq.com. Accessed May 2026.
+Accesswire via Nasdaq. "Chow Tai Fook Jewellery Celebrates 95th Anniversary with Record High Revenue and Core Operating Profit for FY2024." 13 June 2024. nasdaq.com. Accessed May 2026.
+Yahoo Finance. Chow Tai Fook Jewellery Group (1929.HK) — Summary & Financials. finance.yahoo.com. Accessed May 2026.
+
+PNJ Group — Peer Benchmark Sources
+
+Phu Nhuan Jewelry Joint Stock Company (PNJ). Annual Report 2025 (Year Ended 31 December 2025). HOSE disclosure portal (hsx.vn) and SSC Vietnam (ssc.gov.vn). Retrieved from pnj.com.vn/quan-he-co-dong. Accessed May 2026. (Primary source for FY2025 full-year revenue VND 35 trillion, profit after tax VND 2.8 trillion, and gross margin data cited in H1 and H3.)
+Phu Nhuan Jewelry Joint Stock Company (PNJ). Audited Consolidated Financial Statements — Year Ended 31 December 2025. SSC disclosure portal (ssc.gov.vn) and HOSE (hsx.vn). Accessed May 2026. (Primary source for balance sheet, ROE, and asset turnover data cited in H2 and H3 DuPont analysis.)
+Phu Nhuan Jewelry Joint Stock Company (PNJ). Annual Report 2024 (Year Ended 31 December 2024). Published 16 April 2025. HOSE disclosure portal (hsx.vn). Accessed May 2026. (Prior-year comparative baseline for gross margin 17.6%, revenue VND 37,823 billion, and asset intensity data.)
