@@ -1,4 +1,5 @@
 ---
+
 Template: MEMO
 Purpose: "Stage 2 company selection memo — subject selection rationale, analytical framing, and preliminary hypotheses for BUS-629 ratio analysis project"
 Audience: "Adam Stauffer, Instructor — BUS-629 International Corporate Finance"
