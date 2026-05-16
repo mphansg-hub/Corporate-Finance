@@ -1,16 +1,10 @@
 ---
 template: memo
-purpose: "Stage 2 Company Selection — BUS-629 VEMBA International Corporate Finance"
+purpose: "Stage 2 company selection memo — justify subject company for BUS-629 ratio analysis project"
 audience: instructor
 fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
-naming_convention: "YYYY-MM-DD-{lastname}-{company-slug}-selection.md"
+naming_convention: "2026-05-16-mai-chow-tai-fook-jewellery-group-selection.md"
 courses: [BUS-629]
-company: "Chow Tai Fook Jewellery Group Limited"
-ticker: "1929.HK"
-exchange: "SEHK (Main Board)"
-fiscal_year_end: "31 March"
-reporting_standard: "IFRS"
-currency: "HKD"
 ---
 
 # Stage 2 Company Selection Memo — Chow Tai Fook Jewellery Group Limited (1929.HK)
