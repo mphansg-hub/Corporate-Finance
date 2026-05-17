@@ -9,101 +9,72 @@ date: "2026-05-17"
 re: "Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited"
 courses: [BUS-629]
 ---
+# Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (HKEX: 1929)
 
-# Stage 2 Company Selection Memo — Chow Tai Fook Jewellery Group Limited (1929.HK)
-
-**To:** Adam Stauffer, Instructor, BUS-629 VEMBA International Corporate Finance  
-**From:** Mai [Student, UH Mānoa VEMBA Cohort]  
-**Date:** 2026-05-16  
-**Re:** Company Selection for Ratio Analysis — Chow Tai Fook Jewellery Group Limited (SEHK: 1929)
+**To:** Adam Stauffer, Adjunct Professor — BUS-629 VEMBA International Corporate Finance
+**From:** Mai Phan, VEMBA Cohort, University of Hawaiʻi at Mānoa
+**Date:** 2026-05-17
+**Re:** Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited
 
 ---
 
 ## Executive Summary
 
-I am selecting **Chow Tai Fook Jewellery Group Limited** (SEHK: 1929; OTC ADR: CJEWY), the world's largest listed jeweller by retail network, as the subject company for the BUS-629 ratio analysis project. The company is listed on the Hong Kong Stock Exchange Main Board, reports under IFRS in Hong Kong dollars (HKD), and maintains a March 31 fiscal year-end, providing two fully audited annual reports (FY2024 and FY2025) with rich granularity across all ratio categories. The selection is analytically compelling because the company is mid-execution of a major strategic pivot — from volume-driven, weight-priced gold sales to a higher-margin, fixed-price brand model — creating meaningful year-on-year divergence in profitability, efficiency, and leverage metrics that reward close examination. FY2025 revenue declined 17.5% while operating profit rose 9.8%, a decoupling that makes this an exceptional vehicle for understanding how margin structure, capital allocation, and working capital management interact under pressure.
+I select **Chow Tai Fook Jewellery Group Limited (HKEX: 1929)** as the project subject. The world's largest pure-play jewellery retailer (FY2025 revenue HK$89.7 bn; market capitalisation ~HK$130 bn) offers an unusually rich ratio-analysis case: IFRS 9 gold-loan mark-to-market cut net profit 9.0% even as operating profit rose 9.8% in FY2025; Cheng-family control of ~72.48% concentrates governance; and a brand-transformation pivot decoupled revenue (−17.5%) from gross profit margin (+550 bps to 29.5%). Two PwC-audited fiscal years (FY2024 and FY2025) are publicly filed via HKEXnews, supporting directly comparable IFRS ratio computation across profitability, activity, leverage, liquidity, and investor-return categories.
 
 ---
 
 ## Background
 
-Chow Tai Fook Jewellery Group Limited was founded in 1929 and listed on the SEHK Main Board in December 2011 under stock code 1929. The Group operates the flagship **CHOW TAI FOOK** brand alongside HEARTS ON FIRE, ENZO, MONOLOGUE, and SOINLOVE. As of 31 March 2025, the Group maintained 6,274 points-of-sale (POS) in Mainland China and approximately 87 POS in Hong Kong and Macau, with selective international presence in Southeast Asia, Japan, Canada, and the United States.
-
-The Group operates within the luxury consumer goods / specialty retail sector, deriving approximately 78–80% of revenues from Mainland China. Its business model is a hybrid of self-operated retail and franchised POS (the latter contributing the majority of Chinese Mainland network coverage), complemented by a rapidly growing omni-channel e-commerce platform. The Group reports in HKD under IFRS as adopted by Hong Kong, and financials are subject to independent audit by PricewaterhouseCoopers.
-
-For BUS-629 purposes, both FY2024 and FY2025 Annual Reports are publicly available via the SEHK Disclosure Portal (HKEXnews), providing full consolidated income statements, balance sheets, cash flow statements, and notes adequate for all required ratio computations.
+Chow Tai Fook Jewellery Group Limited (HKEX: 1929; OTC ADR: CJEWY), founded 1929 and listed on the HKEX Main Board in December 2011, is the largest listed specialty-jewellery retailer by revenue and network. The Group operates the flagship *Chow Tai Fook* brand alongside HEARTS ON FIRE, ENZO, MONOLOGUE and SOINLOVE — 6,274 mainland-China POS and 87 in Hong Kong / Macau at 31 March 2025. Approximately 80% of revenue is from Mainland China. Reports IFRS-HK in HKD; fiscal year-end 31 March; auditor PricewaterhouseCoopers. The Cheng family controls ~72.48% via Chow Tai Fook Capital Limited.
 
 ---
 
 ## Method
 
-The ratio analysis will draw on:
-
-- **Primary source:** FY2025 Annual Report (year ended 31 March 2025), published 12 June 2025, available at HKEXnews (www1.hkexnews.hk, SEHK code: 1929)
-- **Comparative year:** FY2024 Annual Report (year ended 31 March 2024), published June 2024, same portal
-- **Market data:** Yahoo Finance (1929.HK) and Bloomberg for market cap, share price, and EPS for market-based ratios
-- **Analyst context:** HKEXnews earnings announcements, IR presentations, and management commentary from the FY2025 results call (June 2025)
-
-All computations will use IFRS-reported figures. Where the Group publishes adjusted/non-IFRS metrics (e.g., "core operating profit," "adjusted gross profit margin" excluding unrealised gold loan gains/losses), I will note the IFRS figure as the primary input and the adjusted figure as supplementary context, flagging the divergence and its driver.
-
-Currency: all figures reported and analyzed in HKD. No cross-currency conversion required for ratio computation; any USD references (e.g., for peer comparison framing) will be converted at period-end rates disclosed in the annual report.
+Extract IFRS consolidated I/S, B/S, and cash-flow statements from the HKEXnews-filed FY2024 (20 June 2024) and FY2025 (12 June 2025) annual reports; populate the Stage 1 ratio template. Five categories: **Profitability** (GM, OM, NM, ROE, ROA) — central to the margin-vs-earnings divergence; **Activity** (inventory days, asset turnover) — gold-inventory dynamics; **Leverage** (D/E, interest coverage, net gearing inclusive of gold loans); **Liquidity** (current, quick); **Investor** (P/E, yield, payout — 87.8% in FY2025). Peer set: Luk Fook (HKEX: 0590), Chow Sang Sang (HKEX: 0116), Lao Feng Xiang (SSE: 600612). Supplementary: Bloomberg, LBMA gold PM Fix (USD/oz), HKD/CNY/USD rates, S&P Capital IQ.
 
 ---
 
 ## Findings
 
-**Preliminary data points confirming analytical richness:**
+Preliminary FY2024 → FY2025 data points from the HKEX results announcements:
 
-| Metric | FY2024 | FY2025 | Direction |
+| Metric | FY2024 | FY2025 | Δ |
 |---|---|---|---|
-| Revenue (HKD bn) | 108.7 | 89.7 | ▼ –17.5% |
-| Gross Profit Margin | ~24.0% | 29.5% | ▲ +550 bps |
-| Core Operating Profit (HKD bn) | 12.2 | 14.7 (est.) | ▲ +9.8% |
-| Operating Profit Margin | ~11.2% | ~16.4% | ▲ significant |
-| ROE | ~24.7% | 21.9% | ▼ modest decline |
-| Net Gearing | disclosed | 44% (exc. gold loans: net cash) | — |
-| EPS (HKD) | ~0.65 | 0.59 | ▼ –9% |
+| Revenue (HK$ bn) | 108.7 | 89.7 | −17.5% |
+| Gross profit margin | ~24.0% | 29.5% | +550 bps |
+| Operating profit (HK$ bn) | ~12.2 | 14.7 | +9.8% |
+| Net profit attributable (HK$ bn) | 6.50 | 5.92 | −9.0% |
+| EPS (HK$) | 0.65 | 0.59 | −9.2% |
+| Dividend payout | 84.6% | 87.8% | +320 bps |
 
-*Sources: FY2024 and FY2025 HKEX Annual Results announcements; FY2025 Investor Presentation, June 2025.*
-
-The divergence between declining top-line and expanding margins — driven simultaneously by gold price appreciation on existing inventory and the strategic shift toward fixed-price, higher-craftsmanship products — creates unusually instructive conditions for ratio analysis. Working capital dynamics are also significant: the Group actively reduced gold loan positions and bank borrowings in FY2025, introducing leverage trajectory as an analytical thread.
+Mainland-China same-store sales fell 19.4% YoY; the POS network contracted from 7,403 to 6,274 — productivity-led repositioning, with fixed-price collections (CTF Rouge and Palace Museum each ~HK$4 bn) driving mix uplift. The simultaneous revenue contraction and margin expansion is the analytical centre of gravity for this project.
 
 ---
 
 ## Implications
 
-**Three directional hypotheses, each falsifiable:**
+1. **I expect gross profit margin to remain above 27% in FY2025** because the revenue-mix shift toward fixed-price, IP-anchored collections (~HK$8 bn combined) structurally lowers commodity-margin compression, and gold-price appreciation provides an inventory-realisation tailwind on legacy stock.
 
-1. **Profitability Ratios — Gross Margin Expansion Sustained:** I expect gross profit margin to remain above 27% in FY2025 (IFRS basis) because the Group's revenue mix shift toward fixed-price gold products structurally reduces exposure to commodity-price margin compression, and FY2025 gold price appreciation provided an additional tailwind on per-gram realization. If the IFRS-reported figure is materially lower due to unrealised gold loan losses, the non-IFRS adjusted margin provides the underlying operational story.
+2. **I expect net margin to contract even as operating margin expands** because IFRS 9 mark-to-market on the gold-loan liability moves inversely to gold prices, producing a non-cash drag that decouples accounting profit from operating cash generation.
 
-2. **Efficiency Ratios — Inventory Days to Lengthen vs. FY2024:** I expect inventory days (inventory ÷ COGS × 365) to increase in FY2025 relative to FY2024 because a 17.5% revenue decline, combined with a selective store-closure strategy rather than aggressive destocking, implies slower physical inventory turn — even as HKD inventory valuations rise with gold prices. This creates an apparent tension between improving margins and deteriorating inventory efficiency that the ratio analysis should surface and explain.
-
-3. **Leverage Ratios — Deleveraging Trajectory Confirmed:** I expect net gearing (as defined by the Group: bank borrowings + gold loans, net of cash, divided by total equity) to decline from FY2024 to FY2025 because management explicitly communicated a capital discipline mandate in the FY2025 results call — bank borrowings fell to RMB 3.8 billion and gold loan positions were reduced — positioning the Group to approach a near-net-cash status when gold loans (a hedging instrument) are excluded.
+3. **I expect inventory days and the cash conversion cycle to lengthen** because Mainland China same-store sales fell 19.4% while the POS footprint stayed large (~6,300) and gold inventory carrying values rose with spot prices — slowing turnover at constant unit volume.
 
 ---
 
 ## Limitations & Next Steps
 
-**Accounting standard nuances to monitor:**
-
-- **Gold loans:** The Group uses gold loans as a commodity hedge. IFRS 9 requires mark-to-market recognition of unrealised gains/losses, which creates volatility in reported gross profit. This is a material IFRS-specific distortion that must be isolated in ratio interpretation — particularly for gross margin and net income-based ratios.
-- **Franchise vs. self-operated revenue recognition:** Revenue from franchised POS is recognized differently from owned-store revenue (royalty/sell-in vs. retail). This affects revenue-based efficiency ratios and comparability to purely self-operated peers.
-- **Non-March fiscal year:** The Group's March 31 year-end means FY2025 data (published June 2025) is the most recent complete annual period — allowing use of the most current full-year disclosure, which is an advantage over peers with December year-ends whose FY2025 annuals are not yet published at this analysis date.
-
-**Next steps:** Obtain and index both annual reports from HKEXnews; populate the Stage 1 template with FY2024 and FY2025 figures; confirm all line-item labels map to IFRS terminology used in the template's ratio framework.
+Three IFRS-specific caveats to flag in interpretation: (i) gold-loan IFRS 9 mark-to-market distorts reported gross profit and net income relative to operating cash flow — adjusted metrics will be cross-referenced; (ii) franchised-POS revenue is recognised on sell-in (wholesale) rather than at the retail till — affecting efficiency-ratio comparability with self-operated peers; (iii) the 31 March year-end produces FY2025 disclosures more current than December-year peers. Concentrated family ownership (~72.48% — above the 25% controlling-shareholder threshold under Vietnam's *Law on Securities No. 54/2019/QH14* Art. 4) frames the payout and related-party analysis. **Next steps:** populate the Stage 1 template with FY2024 and FY2025 line items; isolate IFRS-reported vs adjusted figures; benchmark against the peer set; flag IFRS-vs-VAS treatment differences for ASEAN comparators governed by *Law on Enterprises No. 59/2020/QH14*.
 
 ---
 
 ## References
 
-1. Chow Tai Fook Jewellery Group Limited. *FY2025 Annual Results Announcement* (year ended 31 March 2025). Published 12 June 2025. HKEXnews, SEHK code: 1929. https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0612/2025061200255.pdf
-
-2. Chow Tai Fook Jewellery Group Limited. *FY2024 Annual Results Announcement* (year ended 31 March 2024). Published June 2024. HKEXnews, SEHK code: 1929. https://www.hkexnews.hk/listedco/listconews/sehk/2024/0620/2024062000020_c.pdf
-
-3. Chow Tai Fook Jewellery Group Limited. *Investor Relations Dashboard & Financial Highlights*. https://www.ctfjewellerygroup.com/en/investor-relations/financial-highlights/
-
-4. Chow Tai Fook Jewellery Group Limited. *FY2025 Investor & Analyst Presentation — Earnings Call Transcript*, June 2025. Via Yahoo Finance / ACCESS Newswire.
-
-5. Yahoo Finance. *1929.HK — Chow Tai Fook Jewellery Group*. https://finance.yahoo.com/quote/1929.HK (accessed 16 May 2026).
-
-6. CompaniesMarketCap. *Chow Tai Fook (1929.HK) — Market Capitalization*. https://companiesmarketcap.com/chow-tai-fook/marketcap/ (accessed 16 May 2026).
+1. Chow Tai Fook Jewellery Group Limited, *FY2025 Annual Results Announcement* (year ended 31 March 2025), HKEXnews, 12 June 2025 — https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0612/2025061200255.pdf (accessed 17 May 2026).
+2. Chow Tai Fook Jewellery Group Limited, *FY2024 Annual Results Announcement* (year ended 31 March 2024), HKEXnews, 20 June 2024 — https://www.hkexnews.hk/listedco/listconews/sehk/2024/0620/2024062000020_c.pdf (accessed 17 May 2026).
+3. Chow Tai Fook Jewellery Group Limited, *1HFY2026 Interim Results*, HKEXnews, 25 November 2025 — https://www.ctfjewellerygroup.com/en/Media/news/p251125/ (accessed 17 May 2026).
+4. Chow Tai Fook Jewellery Group Limited, *Corporate Governance — Board Structure*, https://www.ctfjewellerygroup.com/en/Group/Borad-Structure/ (accessed 17 May 2026).
+5. HKEX Main Board Listing Rules, Chapter 3 (Directors) and Chapter 13 (Continuing Obligations) — https://en-rules.hkex.com.hk/ (accessed 17 May 2026).
+6. Socialist Republic of Vietnam, *Law on Enterprises No. 59/2020/QH14*, effective 1 January 2021.
+7. Socialist Republic of Vietnam, *Law on Securities No. 54/2019/QH14*, effective 1 January 2021.
