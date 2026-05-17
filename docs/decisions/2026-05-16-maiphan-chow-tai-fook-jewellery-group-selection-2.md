@@ -1,7 +1,8 @@
 ---
 template: Memo
 purpose: "Stage 2 company selection & memo as the subject company for the BUS-629 ratio analysis project"
-audience: instructor
+audience: Instructor
+title:"Company Selection & Executive Memo"
 to: "Professor Adam Stauffer"
 from: "Mai Phan, VEMBA Cohort"
 date: "2026-05-17"
