@@ -9,12 +9,6 @@ date: "2026-05-17"
 re: "Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited"
 courses: [BUS-629]
 ---
-# Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (HKEX: 1929)
-
-**To:** Adam Stauffer, Adjunct Professor — BUS-629 VEMBA International Corporate Finance
-**From:** Mai Phan, VEMBA Cohort, University of Hawaiʻi at Mānoa
-**Date:** 2026-05-17
-**Re:** Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited
 
 ---
 
