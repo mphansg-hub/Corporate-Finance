@@ -1,15 +1,12 @@
 ---
 template: Memo
-purpose: "Stage 2 company selection memo — justify Chow Tai Fook Jewellery Group Limited (HKEX: 1929) as the subject company for the BUS-629 ratio analysis project"
+purpose: "Stage 2 company selection & memo as the subject company for the BUS-629 ratio analysis project"
 audience: instructor
-title: "Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (HKEX: 1929)"
 to: "Professor Adam Stauffer"
 from: "Mai Phan, VEMBA Cohort"
 date: "2026-05-17"
-re: "Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited"
+re: "Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited (HKEX: 1929)"
 courses: [BUS-629]
----
-
 ---
 
 ## Executive Summary
@@ -41,8 +38,10 @@ The analysis will follow the six ratio categories pre-structured in the course's
 6. **DuPont decomposition** — to disaggregate ROE into margin × turnover × leverage components
 
 **Data sources:**
-- Chow Tai Fook FY2024 Annual Report (HKEx filing, June 2024) — primary source for income statement, balance sheet, cash flow statement
-- Chow Tai Fook FY2023 Annual Report — prior-year comparative data
+- Chow Tai Fook FY2025 Annual Report (HKEx filing, June 2025) — primary source for income statement, balance sheet, cash flow statement
+- Chow Tai Fook FY2024 Annual Report — prior-year comparative data
+- Two PwC-audited annual reports on HKEXnews: **FY2025** (year ended 31 Mar 2025; published 12 Jun 2025) and **FY2024** (published 20 Jun 2024). **1HFY2026 interim** (six months to 30 Sep 2025; published 25 Nov 2025) provides post-period validation.
+- Sources: HKEXnews (hkexnews.hk); CTF IR (ctfjewellerygroup.com); Bloomberg Terminal; S&P Capital IQ; LBMA gold reference; World Gold Council *Gold Demand Trends*.
 - HKEx news and disclosures portal (hkexnews.hk) — regulatory filings
 - CTF Investor Relations page (ctfjewellerygroup.com) — financial highlights and interim results
 - Yahoo Finance / Bloomberg — market data for valuation ratios
@@ -91,8 +90,12 @@ The analysis will follow the six ratio categories pre-structured in the course's
 
 ## References
 
-- Chow Tai Fook Jewellery Group Limited. *Annual Report FY2024 (Year ended 31 March 2024)*. HKEx filing, 20 June 2024. Retrieved from hkexnews.hk.
-- Chow Tai Fook Jewellery Group Limited. *Annual Report FY2023 (Year ended 31 March 2023)*. HKEx filing. Retrieved from hkexnews.hk.
-- Chow Tai Fook Jewellery Group Limited. *Interim Results Announcement 1HFY2025 (Six months ended 30 September 2024)*. 26 November 2024. Retrieved from ctfjewellerygroup.com.
-- HKEx News and Disclosures Portal. hkexnews.hk. Accessed May 2026.
-- Yahoo Finance. Chow Tai Fook (1929.HK) — Financials. finance.yahoo.com. Accessed May 2026.
+1. Chow Tai Fook Jewellery Group Limited, *FY2025 Annual Results Announcement* (year ended 31 March 2025), HKEXnews, 12 June 2025 — https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0612/2025061200255.pdf (accessed 17 May 2026).
+2. Chow Tai Fook Jewellery Group Limited, *FY2024 Annual Results Announcement* (year ended 31 March 2024), HKEXnews, 20 June 2024 — https://www.hkexnews.hk/listedco/listconews/sehk/2024/0620/2024062000020_c.pdf (accessed 17 May 2026).
+3. Chow Tai Fook Jewellery Group Limited, *1HFY2026 Interim Results*, HKEXnews, 25 November 2025 — https://www.ctfjewellerygroup.com/en/Media/news/p251125/ (accessed 17 May 2026).
+4. Chow Tai Fook Jewellery Group Limited, *Corporate Governance — Board Structure*, https://www.ctfjewellerygroup.com/en/Group/Borad-Structure/ (accessed 17 May 2026).
+5. HKEX Main Board Listing Rules, Chapter 3 (Directors) and Chapter 13 (Continuing Obligations) — https://en-rules.hkex.com.hk/ (accessed 17 May 2026).
+6. World Gold Council, *Gold Demand Trends — Full Year 2025*, January 2026 — https://www.gold.org/goldhub/research/gold-demand-trends (accessed 17 May 2026).
+7. Bain & Company, *Worldwide Luxury Goods Study — Spring 2025 Update*, June 2025 — https://www.bain.com/insights/topics/luxury-goods-worldwide-market-study/ (accessed 17 May 2026).
+8. London Bullion Market Association, *LBMA Gold Price PM Fix* (USD/oz daily series), https://www.lbma.org.uk/prices-and-data/lbma-gold-price (accessed 17 May 2026).
+9. IFRS Foundation, *IAS 2 Inventories* and *IFRS 9 Financial Instruments* — https://www.ifrs.org/issued-standards/ (accessed 17 May 2026).
