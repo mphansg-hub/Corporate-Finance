@@ -15,7 +15,13 @@ courses: [BUS-629]
 ## Executive Summary
 
 **Recommendation:** Select **Chow Tai Fook Jewellery Group Limited (HKEX: 1929)** for FY2024–FY2025 IFRS ratio analysis. CTF embodies the Asian jewellery industry's structural reset — premiumisation via fixed-price IP collections, productivity-led footprint optimisation, Gen-Z brand engagement, and selective international expansion — visible in FY2025 at high resolution (reported: revenue −17.5%, operating profit +9.8%, gross margin +550 bps to 29.5%). Cheng-family control (~72.48%) and IFRS 9 gold-loan mark-to-market enrich governance and accounting analysis beyond standard retail metrics. Two PwC-audited years plus 1HFY2026 interim are filed via HKEXnews.
+## Company Overview
 
+**Name / ticker:** Chow Tai Fook Jewellery Group Limited (HKEX: 1929); HKEX Main Board, listed Dec 2011.
+**Industry:** Specialty jewellery retail (consumer discretionary; affordable-luxury hybrid).
+**Business:** 6,274 mainland-China POS and 87 HK / Macau at 31 Mar 2025; ~80% revenue from Mainland China; flagship plus HEARTS ON FIRE, ENZO, MONOLOGUE, SOINLOVE.
+**Market capitalisation:** ~HK$130 bn (May 2026).
+**Reporting:** HKD; IFRS as adopted by Hong Kong; FYE 31 March.
 ---
 
 ## Background
