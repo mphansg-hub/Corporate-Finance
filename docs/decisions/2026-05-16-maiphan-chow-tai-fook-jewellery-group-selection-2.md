@@ -2,6 +2,8 @@
 template: Memo
 purpose: "Stage 2 company selection & memo as the subject company for the BUS-629 ratio analysis project"
 audience: Instructor
+fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
+naming_convention: "YYYY-MM-DD-{slug}.md"
 title: "Company Selection & Executive Memo"
 to: "Professor Adam Stauffer"
 from: "Mai Phan, VEMBA Cohort"
