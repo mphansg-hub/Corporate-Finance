@@ -15,19 +15,13 @@ courses: [BUS-629]
 ## Executive Summary
 
 **Recommendation:** Select **Chow Tai Fook Jewellery Group Limited (HKEX: 1929)** for FY2024–FY2025 IFRS ratio analysis. CTF embodies the Asian jewellery industry's structural reset — premiumisation via fixed-price IP collections, productivity-led footprint optimisation, Gen-Z brand engagement, and selective international expansion — visible in FY2025 at high resolution (reported: revenue −17.5%, operating profit +9.8%, gross margin +550 bps to 29.5%). Cheng-family control (~72.48%) and IFRS 9 gold-loan mark-to-market enrich governance and accounting analysis beyond standard retail metrics. Two PwC-audited years plus 1HFY2026 interim are filed via HKEXnews.
-## Company Overview
 
-**Name / ticker:** Chow Tai Fook Jewellery Group Limited (HKEX: 1929); HKEX Main Board, listed Dec 2011.
-**Industry:** Specialty jewellery retail (consumer discretionary; affordable-luxury hybrid).
-**Business:** 6,274 mainland-China POS and 87 HK / Macau at 31 Mar 2025; ~80% revenue from Mainland China; flagship plus HEARTS ON FIRE, ENZO, MONOLOGUE, SOINLOVE.
-**Market capitalisation:** ~HK$130 bn (May 2026).
-**Reporting:** HKD; IFRS as adopted by Hong Kong; FYE 31 March.
 ---
 
 ## Background
 
-
-Chow Tai Fook Jewellery Group Limited was founded in 1929 and listed on HKEx in December 2011 (stock code: 1929). As of FY2024 (year ended 31 March 2024), the Group operates nearly 7,500 points of sale across Mainland China, Hong Kong, Macau, and selected international markets. The Group reported revenue of HK$108,713 million in FY2024, representing 14.8% year-on-year growth, and core operating profit of HK$12,163 million (+28.9% YoY), with a core operating profit margin of 11.2%.
+Chow Tai Fook Jewellery Group Limited was founded in 1929 and listed on HKEx in December 2011 (stock code: 1929). CTF aligns with five strategic axes reshaping the global jewellery industry. 
+As of FY2024 (year ended 31 March 2024), the Group operates nearly 7,500 points of sale across Mainland China, Hong Kong, Macau, and selected international markets. The Group reported revenue of HK$108,713 million in FY2024, representing 14.8% year-on-year growth, and core operating profit of HK$12,163 million (+28.9% YoY), with a core operating profit margin of 11.2%.
 
 The company operates in the same product category as PNJ Group — gold, platinum, diamond, and gem-set jewellery — but at a materially different scale: CTF's FY2024 revenue of approximately USD 13.9 billion compares to PNJ's FY2023 revenue of approximately USD 900 million. This scale differential, combined with differing reporting standards (IFRS vs. Vietnamese Accounting Standards), exchange environments (HKEx vs. HOSE), and capital market structures, makes CTF an analytically rich subject for an EMBA-level ratio analysis.
 
