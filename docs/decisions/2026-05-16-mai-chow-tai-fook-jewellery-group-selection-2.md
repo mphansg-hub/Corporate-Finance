@@ -14,7 +14,7 @@ courses: [BUS-629]
 
 ## Executive Summary
 
-I select **Chow Tai Fook Jewellery Group Limited (HKEX: 1929)** as the project subject. The world's largest pure-play jewellery retailer (FY2025 revenue HK$89.7 bn; market capitalisation ~HK$130 bn) offers an unusually rich ratio-analysis case: IFRS 9 gold-loan mark-to-market cut net profit 9.0% even as operating profit rose 9.8% in FY2025; Cheng-family control of ~72.48% concentrates governance; and a brand-transformation pivot decoupled revenue (−17.5%) from gross profit margin (+550 bps to 29.5%). Two PwC-audited fiscal years (FY2024 and FY2025) are publicly filed via HKEXnews, supporting directly comparable IFRS ratio computation across profitability, activity, leverage, liquidity, and investor-return categories.
+**Recommendation:** Select **Chow Tai Fook Jewellery Group Limited (HKEX: 1929)** for FY2024–FY2025 IFRS ratio analysis. CTF embodies the Asian jewellery industry's structural reset — premiumisation via fixed-price IP collections, productivity-led footprint optimisation, Gen-Z brand engagement, and selective international expansion — visible in FY2025 at high resolution (reported: revenue −17.5%, operating profit +9.8%, gross margin +550 bps to 29.5%). Cheng-family control (~72.48%) and IFRS 9 gold-loan mark-to-market enrich governance and accounting analysis beyond standard retail metrics. Two PwC-audited years plus 1HFY2026 interim are filed via HKEXnews.
 
 ---
 
