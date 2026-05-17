@@ -1,9 +1,15 @@
 ---
 template: memo
-purpose: "Stage 2 company selection memo — justify subject company for BUS-629 ratio analysis project"
+purpose: "Stage 2 company selection memo — justify Chow Tai Fook Jewellery Group Limited (HKEX: 1929) as the subject company for the BUS-629 ratio analysis project"
 audience: instructor
 fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
-naming_convention: "2026-05-16-mai-chow-tai-fook-jewellery-group-selection.md"
+naming_convention: "2026-05-17-phan-chow-tai-fook-selection.md"
+courses: [BUS-629]
+title: "Stage 2 Company Selection — Chow Tai Fook Jewellery Group Limited (HKEX: 1929)"
+to: "Adam Stauffer, Adjunct Professor — BUS-629 VEMBA International Corporate Finance"
+from: "Mai Phan, VEMBA Cohort, University of Hawaiʻi at Mānoa"
+date: "2026-05-17"
+re: "Company selection for FY2024–FY2025 IFRS ratio analysis — Chow Tai Fook Jewellery Group Limited"
 courses: [BUS-629]
 ---
 
